@@ -36,7 +36,7 @@ jobs:
         run: yarn
 
       - name: Install @docus/admin module
-        run: yarn add --dev @docus/admin
+        run: yarn add --dev @docus/admin-edge
 
       - name: Generate
         env:
