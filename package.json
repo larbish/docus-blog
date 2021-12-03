@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start"
+    "dev": "nuxi",
+    "build": "nuxi build",
+    "start": "nuxi start"
   },
   "dependencies": {
     "@docus/blog-theme": "npm:@docus/blog-theme-edge@latest",
