@@ -1,2 +1,2 @@
 
-New content for index
+Content updated
