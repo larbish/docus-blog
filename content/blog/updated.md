@@ -1,8 +1,19 @@
 ---
 title: Commodo sed egestas egestas fringilla phasellus
 image: /images/blog/three.jpg
-tags: ['sollicitudin', 'aliquam']
-previewSnippet: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra tellus in hac habitasse platea dictumst vestibulum. Lacus sed turpis tincidunt id. Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin. Sit amet consectetur adipiscing elit ut. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Lectus sit amet est placerat in. Ipsum dolor sit amet consectetur adipiscing elit pellentesque. Accumsan in nisl nisi scelerisque eu. Semper quis lectus nulla at volutpat. Id eu nisl nunc mi ipsum faucibus vitae. Dui sapien eget mi proin sed libero enim sed.'
+tags:
+  - sollicitudin
+  - aliquam
+previewSnippet: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Viverra tellus in hac habitasse
+  platea dictumst vestibulum. Lacus sed turpis tincidunt id. Porta lorem mollis
+  aliquam ut porttitor leo a diam sollicitudin. Sit amet consectetur adipiscing
+  elit ut. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim.
+  Lectus sit amet est placerat in. Ipsum dolor sit amet consectetur adipiscing
+  elit pellentesque. Accumsan in nisl nisi scelerisque eu. Semper quis lectus
+  nulla at volutpat. Id eu nisl nunc mi ipsum faucibus vitae. Dui sapien eget mi
+  proin sed libero enim sed.
 template: blogpost
 ---
 
@@ -18,7 +29,7 @@ $ npm install wearefractal/vinyl-fs
 
 Tortor consequat id porta nibh venenatis cras sed felis eget. Sit amet cursus sit amet dictum sit amet.
 
-```js
+```typescript
 var fs = require('vinyl-fs'),
   gzip = require('gulp-gzip')
 
@@ -29,11 +40,11 @@ grunt.registerTask('zip', function () {
 
 Praesent semper feugiat nibh sed pulvinar proin. In fermentum posuere urna nec tincidunt praesent. Nunc scelerisque viverra mauris in aliquam sem. Scelerisque eleifend donec pretium vulputate sapien nec. Eu ultrices vitae auctor eu augue ut lectus arcu. Commodo sed egestas egestas fringilla phasellus. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Sed libero enim sed faucibus turpis. Vestibulum rhoncus est pellentesque elit. Lorem sed risus ultricies tristique nulla aliquet enim tortor at. Fermentum leo vel orci porta non pulvinar neque laoreet. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Integer quis auctor elit sed vulputate.
 
-![Example](/images/blog/four.jpg 'Example')
+![Example](/images/blog/four.jpg "Example")
 
 Vestibulum rhoncus est pellentesque elit. Lorem sed risus ultricies tristique nulla aliquet enim tortor at.
 
-```js
+```typescript
 var fs = require('vinyl-fs'),
   map = require('map-stream'),
   zlib = require('zlib')
