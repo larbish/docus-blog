@@ -1,2 +1,0 @@
-
-# content/hello.md
