@@ -1,22 +1,3 @@
----
-title: Commodo sed egestas egestas fringilla phasellus
-image: /images/blog/three.jpg
-tags:
-  - sollicitudin
-  - aliquam
-previewSnippet: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Viverra tellus in hac habitasse
-  platea dictumst vestibulum. Lacus sed turpis tincidunt id. Porta lorem mollis
-  aliquam ut porttitor leo a diam sollicitudin. Sit amet consectetur adipiscing
-  elit ut. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim.
-  Lectus sit amet est placerat in. Ipsum dolor sit amet consectetur adipiscing
-  elit pellentesque. Accumsan in nisl nisi scelerisque eu. Semper quis lectus
-  nulla at volutpat. Id eu nisl nunc mi ipsum faucibus vitae. Dui sapien eget mi
-  proin sed libero enim sed.
-template: blogpost
----
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra tellus in hac habitasse platea dictumst vestibulum. Lacus sed turpis tincidunt id. Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin. Sit amet consectetur adipiscing elit ut. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Lectus sit amet est placerat in. Ipsum dolor sit amet consectetur adipiscing elit pellentesque. Accumsan in nisl nisi scelerisque eu. Semper quis lectus nulla at volutpat. Id eu nisl nunc mi ipsum faucibus vitae. Dui sapien eget mi proin sed libero enim sed.
 
 Tincidunt id aliquet risus feugiat in ante metus dictum. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Nisi est sit amet facilisis magna etiam. Tristique senectus et netus et malesuada fames ac turpis egestas. Commodo elit at imperdiet dui accumsan sit amet nulla facilisi. Iaculis urna id volutpat lacus. Tempus imperdiet nulla malesuada pellentesque elit. Rhoncus aenean vel elit scelerisque mauris pellentesque. Odio facilisis mauris sit amet massa vitae tortor condimentum. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Bibendum est ultricies integer quis auctor elit sed vulputate. Molestie ac feugiat sed lectus. Diam vel quam elementum pulvinar etiam non quam lacus.
