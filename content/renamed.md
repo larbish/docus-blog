@@ -1,1 +1,1 @@
-# content/renamed.md
+# updated
