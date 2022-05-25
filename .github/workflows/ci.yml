@@ -11,6 +11,9 @@ on:
 jobs:
   ci:
     runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        working-directory: ./starter
 
     strategy:
       matrix:
@@ -37,9 +40,6 @@ jobs:
       - name: Dependencies
         if: steps.cache.outputs.cache-hit != 'true'
         run: yarn
-
-      - name: Lint
-        run: yarn lint
 
       - name: Build
         run: yarn build
